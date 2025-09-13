@@ -1,0 +1,9 @@
+# Palabras clave para: Proyecto_OCR
+# Creado: 02/08/2025 16:12:15
+# Total de palabras: 3
+#
+# Una palabra clave por línea:
+#----------------------------------------
+alumbrado
+luz eléctrica
+faroles

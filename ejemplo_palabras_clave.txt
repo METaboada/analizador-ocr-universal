@@ -1,0 +1,41 @@
+# Palabras clave para: Análisis de Documentos Gubernamentales
+# Creado: 02/08/2025 15:45:00
+# Total de palabras: 35
+#
+# Una palabra clave por línea:
+#----------------------------------------
+administración
+gobierno
+municipal
+público
+servicio
+ciudad
+urbano
+infraestructura
+desarrollo
+gestión
+política
+normativa
+reglamento
+ordenanza
+resolución
+proyecto
+propuesta
+iniciativa
+presupuesto
+financiamiento
+recursos
+planificación
+ejecución
+implementación
+evaluación
+seguimiento
+control
+supervisión
+calidad
+eficiencia
+transparencia
+participación
+ciudadanía
+comunidad
+social

@@ -1,0 +1,26 @@
+# Palabras clave para: Análisis de Documentos Educativos
+# Creado: 02/08/2025 15:50:00
+# Total de palabras: 20
+#
+# Una palabra clave por línea:
+#----------------------------------------
+educación
+enseñanza
+aprendizaje
+estudiante
+alumno
+profesor
+docente
+maestro
+escuela
+colegio
+universidad
+instituto
+currículo
+materia
+asignatura
+evaluación
+examen
+calificación
+metodología
+pedagogía

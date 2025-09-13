@@ -1,0 +1,47 @@
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+
+# Archivos de configuración del editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos de prueba y diagnóstico
+test_*.bat
+diagnostico*.bat
+debug*.py
+temp*.py
+
+# Resultados locales (el usuario puede querer mantener su carpeta local)
+resultados_ocr/*.xlsx
+resultados_ocr/*.txt
+!resultados_ocr/.gitkeep
+
+# Logs
+*.log

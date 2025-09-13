@@ -1,0 +1,97 @@
+REPORTE DETALLADO DE ANÁLISIS OCR - EJEMPLO DEMO
+================================================================================
+Fecha: 02/08/2025 15:30:45
+Total de archivos procesados: 2
+Palabras clave buscadas: administración, gobierno, municipal, público, servicio
+Configuración:
+  - Sensible a mayúsculas: No
+  - Solo palabras completas: Sí
+  - OCR habilitado: Sí
+
+RESUMEN EJECUTIVO:
+----------------------------------------
+• Total de coincidencias encontradas: 12
+• Archivos con coincidencias: 2 de 2
+• Archivos con errores: 0
+• Promedio de coincidencias por archivo: 6.0
+
+PALABRAS CLAVE MÁS FRECUENTES:
+----------------------------------------
+ 1. público: 4 ocurrencias
+ 2. municipal: 3 ocurrencias
+ 3. administración: 2 ocurrencias
+ 4. servicio: 2 ocurrencias
+ 5. gobierno: 1 ocurrencias
+
+DETALLE POR ARCHIVO:
+================================================================================
+
+📄 ARCHIVO: documento_ejemplo_1.pdf
+   Ruta: C:\Documentos\documento_ejemplo_1.pdf
+   ✅ Total de coincidencias: 7
+   📄 Páginas procesadas: 3
+
+   COINCIDENCIAS DETALLADAS:
+   --------------------------------------------------
+
+   📄 PÁGINA 1:
+      1. Palabra: "administración"
+         Clave buscada: administración
+         Contexto: ...La **administración** municipal se encarga de gestionar los recursos públicos de manera eficiente...
+         ----------------------------------------
+      2. Palabra: "público"
+         Clave buscada: público
+         Contexto: ...gestionar los recursos **público**s de manera eficiente para el bienestar de la ciudadanía...
+         ----------------------------------------
+
+   📄 PÁGINA 2:
+      1. Palabra: "municipal"
+         Clave buscada: municipal
+         Contexto: ...El gobierno **municipal** implementó nuevas políticas para mejorar la gestión urbana...
+         ----------------------------------------
+      2. Palabra: "servicio"
+         Clave buscada: servicio
+         Contexto: ...mejorar la calidad del **servicio** que se brinda a los ciudadanos en todas las áreas...
+         ----------------------------------------
+
+   📄 PÁGINA 3:
+      1. Palabra: "público"
+         Clave buscada: público
+         Contexto: ...espacios **público**s para el desarrollo de actividades comunitarias y recreativas...
+         ----------------------------------------
+
+================================================================================
+
+📄 ARCHIVO: documento_ejemplo_2.pdf
+   Ruta: C:\Documentos\documento_ejemplo_2.pdf
+   ✅ Total de coincidencias: 5
+   📄 Páginas procesadas: 2
+
+   COINCIDENCIAS DETALLADAS:
+   --------------------------------------------------
+
+   📄 PÁGINA 1:
+      1. Palabra: "gobierno"
+         Clave buscada: gobierno
+         Contexto: ...El **gobierno** local trabaja en coordinación con otras instancias gubernamentales...
+         ----------------------------------------
+      2. Palabra: "municipal"
+         Clave buscada: municipal
+         Contexto: ...instancias gubernamentales para fortalecer la gestión **municipal** y territorial...
+         ----------------------------------------
+
+   📄 PÁGINA 2:
+      1. Palabra: "servicio"
+         Clave buscada: servicio
+         Contexto: ...prestación del **servicio** de agua potable y saneamiento básico en la región...
+         ----------------------------------------
+      2. Palabra: "público"
+         Clave buscada: público
+         Contexto: ...como un derecho fundamental del sector **público** para garantizar la salud...
+         ----------------------------------------
+
+================================================================================
+
+NOTA: Este es un archivo de ejemplo que demuestra el formato de los reportes 
+generados por el Analizador OCR Universal. El reporte real contendrá los 
+datos específicos de sus documentos analizados.

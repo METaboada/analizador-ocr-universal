@@ -1,0 +1,77 @@
+# PLANTILLA ALUMBRADO - MEMORIAS LEGISLATURA PORTEÑA
+# Lista especializada para búsqueda de términos relacionados con alumbrado público
+# Una palabra o frase por línea - Las líneas con # son comentarios
+# Basada en las palabras clave originales del sistema especializado
+
+# === TÉRMINOS PRINCIPALES ===
+luz
+luz eléctrica
+alumbrado
+alumbrado eléctrico
+alumbrado a gas
+usina
+alumbrado público
+faroles
+faroles a gas
+
+# === VARIANTES DE LUZ ===
+luces
+iluminación
+iluminado
+iluminar
+iluminación eléctrica
+iluminación pública
+iluminación a gas
+luz pública
+luces públicas
+
+# === ALUMBRADO Y VARIANTES ESPECÍFICAS ===
+alumbrar
+alumbrado municipal
+alumbrado urbano
+sistema de alumbrado
+servicio de alumbrado
+red de alumbrado
+servicio público de alumbrado
+obra de alumbrado
+obras de alumbrado
+
+# === EQUIPAMIENTO E INFRAESTRUCTURA ===
+luminaria
+luminarias
+farola
+farolas eléctricas
+farol
+poste de luz
+postes de luz
+columna de alumbrado
+columnas de alumbrado
+lámpara
+lámparas
+lámpara eléctrica
+lámparas eléctricas
+lámpara de gas
+lámparas de gas
+bombilla
+bombillas
+
+# === TECNOLOGÍAS ESPECÍFICAS ===
+gas de alumbrado
+gas para alumbrado
+electricidad para alumbrado
+energía eléctrica para alumbrado
+
+# === INSTALACIONES ESPECÍFICAS ===
+usina eléctrica
+usina de gas
+fábrica de gas
+gasómetro
+
+# === ESPACIOS CON ALUMBRADO ===
+alumbrado de calles
+alumbrado de avenidas
+alumbrado de plazas
+alumbrado de parques
+iluminación de vías públicas
+luz de calle
+luces de la ciudad

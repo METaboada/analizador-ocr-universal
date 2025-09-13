@@ -1,0 +1,31 @@
+# Palabras clave para: Análisis de Documentos Empresariales
+# Creado: 02/08/2025 15:50:00
+# Total de palabras: 25
+#
+# Una palabra clave por línea:
+#----------------------------------------
+empresa
+corporación
+negocio
+comercial
+ventas
+marketing
+cliente
+producto
+servicio
+mercado
+estrategia
+competencia
+rentabilidad
+inversión
+financiero
+presupuesto
+recursos humanos
+empleado
+personal
+gestión
+administración
+operaciones
+calidad
+innovación
+tecnología

@@ -1,0 +1,28 @@
+# Palabras clave para: Análisis de Documentos de Salud
+# Creado: 02/08/2025 15:50:00
+# Total de palabras: 22
+#
+# Una palabra clave por línea:
+#----------------------------------------
+salud
+medicina
+médico
+doctor
+paciente
+enfermedad
+diagnóstico
+tratamiento
+terapia
+hospital
+clínica
+medicamento
+fármaco
+síntoma
+prevención
+vacuna
+epidemiología
+salubridad
+higiene
+bienestar
+atención médica
+sistema sanitario
